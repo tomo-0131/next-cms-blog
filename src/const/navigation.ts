@@ -3,6 +3,7 @@ export const Navigation = [
 		id: 1,
 		title: "Home",
 		href: "/",
+		icon: "faTwitter",
 	},
 	{
 		id: 2,
